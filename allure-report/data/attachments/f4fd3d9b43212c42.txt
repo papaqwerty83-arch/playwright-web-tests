@@ -1,0 +1,8 @@
+info: Navigating to: / {"timestamp":"2026-06-08 14:59:48"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-08 15:00:07"}
+info: LoginPage opened {"timestamp":"2026-06-08 15:00:07"}
+info: Attempting login with user: standard_user {"timestamp":"2026-06-08 15:00:07"}
+info: Login button clicked for user: standard_user {"timestamp":"2026-06-08 15:00:07"}
+info: Inventory page ready {"timestamp":"2026-06-08 15:00:07"}
+info: Item at index 0 added to cart {"timestamp":"2026-06-08 15:00:07"}
+info: Item at index 1 added to cart {"timestamp":"2026-06-08 15:00:08"}

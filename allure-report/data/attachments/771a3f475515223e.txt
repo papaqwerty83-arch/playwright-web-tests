@@ -1,0 +1,4 @@
+info: Navigating to: / {"timestamp":"2026-06-08 14:32:47"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-08 14:32:49"}
+info: LoginPage opened {"timestamp":"2026-06-08 14:32:49"}
+info: Screenshot taken: login-page-baseline {"timestamp":"2026-06-08 14:32:49"}
