@@ -1,0 +1,5 @@
+info: Navigating to: / {"timestamp":"2026-06-25 00:27:06"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-25 00:27:11"}
+info: LoginPage opened {"timestamp":"2026-06-25 00:27:11"}
+info: Attempting login with user: wrong_user {"timestamp":"2026-06-25 00:27:11"}
+info: Login button clicked for user: wrong_user {"timestamp":"2026-06-25 00:27:11"}

@@ -1,0 +1,7 @@
+info: Navigating to: / {"timestamp":"2026-06-21 12:52:57"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-21 12:53:15"}
+info: LoginPage opened {"timestamp":"2026-06-21 12:53:15"}
+info: Attempting login with user: standard_user {"timestamp":"2026-06-21 12:53:15"}
+info: Login button clicked for user: standard_user {"timestamp":"2026-06-21 12:53:15"}
+info: Inventory page ready {"timestamp":"2026-06-21 12:53:15"}
+info: Logged out {"timestamp":"2026-06-21 12:53:16"}

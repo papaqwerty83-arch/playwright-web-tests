@@ -1,0 +1,4 @@
+info: Navigating to: / {"timestamp":"2026-06-09 11:56:37"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-09 11:56:58"}
+info: LoginPage opened {"timestamp":"2026-06-09 11:56:58"}
+info: Attempting login with user: locked_out_user {"timestamp":"2026-06-09 11:56:58"}
