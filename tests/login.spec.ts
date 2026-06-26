@@ -87,4 +87,16 @@ test.describe('Login functionality — SauceDemo', () => {
       await expect(page.locator('#login-button')).toBeVisible();
     });
   });
+  // ── Тест визуальной регрессии ────────────────────────────────────
+test('TC-05 | Visual regression: login page screenshot', async ({ page }) => {
+  await step('Открыть страницу входа', async () => {
+    await loginPage.goto();
+  });
+
+  await step('Сравнить скриншот с эталоном', async () => {
+    await expect(page).toHaveScreenshot('login-page.png', {
+      maxDiffPixels: 100
+    });
+  });
+});
 });

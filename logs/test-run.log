@@ -3298,3 +3298,27 @@
 [2026-06-26 13:05:15] [INFO] LoginPage opened
 [2026-06-26 13:05:15] [INFO] Attempting login with user: standard_user
 [2026-06-26 13:05:15] [INFO] Login button clicked for user: standard_user
+[2026-06-26 13:07:17] [INFO] Navigating to: /
+[2026-06-26 13:07:17] [INFO] Navigating to: /
+[2026-06-26 13:07:23] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:23] [INFO] LoginPage opened
+[2026-06-26 13:07:23] [INFO] Attempting login with user: standard_user
+[2026-06-26 13:07:23] [INFO] Login button clicked for user: standard_user
+[2026-06-26 13:07:23] [INFO] Inventory page ready
+[2026-06-26 13:07:25] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:25] [INFO] LoginPage opened
+[2026-06-26 13:07:25] [INFO] Navigating to: /
+[2026-06-26 13:07:26] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:26] [INFO] LoginPage opened
+[2026-06-26 13:07:51] [INFO] Navigating to: /
+[2026-06-26 13:07:51] [INFO] Navigating to: /
+[2026-06-26 13:07:54] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:54] [INFO] LoginPage opened
+[2026-06-26 13:07:54] [INFO] Navigating to: /
+[2026-06-26 13:07:54] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:54] [INFO] LoginPage opened
+[2026-06-26 13:07:55] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:07:55] [INFO] LoginPage opened
+[2026-06-26 13:07:55] [INFO] Attempting login with user: standard_user
+[2026-06-26 13:07:55] [INFO] Login button clicked for user: standard_user
+[2026-06-26 13:07:55] [INFO] Inventory page ready

@@ -1,0 +1,7 @@
+info: Navigating to: / {"timestamp":"2026-06-26 13:07:17"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-26 13:07:25"}
+info: LoginPage opened {"timestamp":"2026-06-26 13:07:25"}
+info: Navigating to: / {"timestamp":"2026-06-26 13:07:25"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-26 13:07:26"}
+info: LoginPage opened {"timestamp":"2026-06-26 13:07:26"}
+A snapshot doesn't exist at C:\Users\dstep\OneDrive\Desktop\Диплом ПО\tests\login.spec.ts-snapshots\login-page-chromium-win32.png, writing actual.

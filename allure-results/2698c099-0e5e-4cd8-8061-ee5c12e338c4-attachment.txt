@@ -1,0 +1,6 @@
+info: Navigating to: / {"timestamp":"2026-06-26 13:07:51"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-26 13:07:54"}
+info: LoginPage opened {"timestamp":"2026-06-26 13:07:54"}
+info: Navigating to: / {"timestamp":"2026-06-26 13:07:54"}
+info: Page fully loaded (networkidle) {"timestamp":"2026-06-26 13:07:54"}
+info: LoginPage opened {"timestamp":"2026-06-26 13:07:54"}
