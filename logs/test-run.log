@@ -3287,3 +3287,14 @@
 [2026-06-25 00:27:46] [INFO] Attempting login with user: standard_user
 [2026-06-25 00:27:46] [INFO] Login button clicked for user: standard_user
 [2026-06-25 00:27:46] [INFO] Inventory page ready
+[2026-06-26 13:05:08] [INFO] Navigating to: /
+[2026-06-26 13:05:14] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:05:14] [INFO] LoginPage opened
+[2026-06-26 13:05:14] [INFO] Attempting login with user: standard_user
+[2026-06-26 13:05:14] [INFO] Login button clicked for user: standard_user
+[2026-06-26 13:05:14] [INFO] Inventory page ready
+[2026-06-26 13:05:14] [INFO] Navigating to: /
+[2026-06-26 13:05:15] [INFO] Page fully loaded (networkidle)
+[2026-06-26 13:05:15] [INFO] LoginPage opened
+[2026-06-26 13:05:15] [INFO] Attempting login with user: standard_user
+[2026-06-26 13:05:15] [INFO] Login button clicked for user: standard_user

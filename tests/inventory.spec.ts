@@ -121,5 +121,25 @@ test.describe('Inventory page — product catalog', () => {
       await expect(page).toHaveURL('/');
       await expect(page.locator('#login-button')).toBeVisible();
     });
+  });// ── Тест API: перехват сетевого запроса ─────────────────────────
+test('TC-11 | API route intercept: mock inventory response', async ({ page }) => {
+  // Перехватываем запрос к странице каталога
+  await page.route('**/inventory.html', async route => {
+    await route.continue();
   });
+
+  await step('Авторизоваться и перейти в каталог', async () => {
+    await loginPage.goto();
+    await loginPage.login(users.validUser.username, users.validUser.password);
+    await expect(page).toHaveURL('/inventory.html');
+  });
+
+  await step('Проверить что каталог загрузился через перехват', async () => {
+    const count = await inventoryPage.getProductCount();
+    expect(count).toBe(6);
+  });
+
+  const screenshot = await page.screenshot();
+  await attachment('API route intercept', screenshot, 'image/png');
+});
 });
